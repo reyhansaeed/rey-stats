@@ -7,12 +7,17 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=reyyoungbillionaire&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FFAA&icon_color=00FFAA&text_color=FFFFFF&hide_rank=true">
-    <img src="https://github-readme-stats.vercel.app/api?username=reyyoungbillionaire&show_icons=true&count_private=true&theme=default&hide_border=true&hide_rank=true">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=reyyoungbillionaire&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FFAA&icon_color=00FFAA&text_color=FFFFFF&hide_rank=true">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=reyyoungbillionaire&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FFAA&text_color=FFFFFF">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reyyoungbillionaire&layout=compact&theme=default&hide_border=true">
+    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=reyyoungbillionaire&theme=dark&hide_border=true&background=0D1117&ring=00FFAA&fire=00FFAA&currStreakLabel=00FFAA">
   </picture>
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=reyyoungbillionaire&theme=radical&no-frame=true&no-bg=true&row=2&column=4&margin-w=15&margin-h=15" width="100%" />
 </p>
 
 <br/>
@@ -33,5 +38,6 @@
 <br/>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=reyyoungbillionaire&style=flat-square&color=00FFAA&label=views" />
+  <img src="https://komarev.com/ghpvc/?username=reyyoungbillionaire&style=flat-square&color=00FFAA&label=profile+views" />
+  <img src="https://img.shields.io/github/followers/reyyoungbillionaire?style=flat-square&color=00FFAA&label=followers" />
 </p>
